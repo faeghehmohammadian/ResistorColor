@@ -1,0 +1,72 @@
+input{
+    width: 30%;
+    height: 30px;
+}
+p{
+    font-size:x-large;
+}
+.colorsdiv{
+    display: flex;
+    cursor: pointer;
+}
+.black{
+    width: 30px;
+    height: 100px;
+    background-color: black;
+    border: 0.5px solid;
+
+}
+.brown{
+    width: 30px;
+    height: 100px;
+    background-color: brown;
+    border: 0.5px solid;
+}
+.red{
+    width: 30px;
+    height: 100px;
+    background-color:red;
+    border: 0.5px solid;
+}
+.orange{
+    width: 30px;
+    height: 100px;
+    background-color:orange;
+    border: 0.5px solid;
+}
+.yellow{
+    width: 30px;
+    height: 100px;
+    background-color:yellow;
+    border: 0.5px solid;
+}
+.green{
+    width: 30px;
+    height: 100px;
+    background-color:rgb(7, 240, 7);
+    border: 0.5px solid;
+}
+.blue{
+    width: 30px;
+    height: 100px;
+    background-color:blue;
+    border: 0.5px solid;
+}
+.violet{
+    width: 30px;
+    height: 100px;
+    background-color:violet;
+    border: 0.5px solid;
+}
+.grey{
+    width: 30px;
+    height: 100px;
+    background-color:grey;
+    border: 0.5px solid;
+}
+.white{
+    width: 30px;
+    height: 100px;
+    background-color:white;
+    border: 0.5px solid;
+}
